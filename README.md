@@ -1,6 +1,6 @@
 # indylab
 
-Preapared for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
+Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/587/919/datas/full_width.png)
 
 End-to-End First Slice Technology Demonstrator of 

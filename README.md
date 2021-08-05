@@ -1,5 +1,23 @@
 # indylab
-collaborative mutual learning, research and building spaces for Autonomous Networked Improvement Communities
+
+End-to-End First Slice Technology Demonstrator of a
+
+
+collaborative, mutual learning, research and building spaces for Autonomous Networked Improvement Communities
+
+The goal is to 
+
+"Make it easy to emulate
+compelling to do"
+
+let 1000 ANICs bloom
+
+As with protolocs like IPFS,
+the goal is not to make money with it but because it edxists
+
+Like the Wiki was for Web 2
+
+Aspiring to do likewise for Web3
 
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
 Open, Commons based peer producuction of knowledge and the means for creatine knowledge collaboratively

@@ -1,5 +1,5 @@
 # indylab
-collaborative mutual learning, research and building spaces
+collaborative mutual learning, research and building spaces for Networked Improvement Communities
 
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
 Open, Commons based peer producuction of knowledge and the means for creatine knowledge collaboratively
@@ -22,6 +22,11 @@ as an Open Framework of building online community laboratories that can be run a
 Web3 Native Sidecar with ero friction onramping
 
 Build from Trust for Trust
+
+Restoring the Paradimg Lost
+
+![](https://ipfs.runfission.com/ipfs/bafybeicbh6a5bfxusqje4pdbm6xt3qjwua3aurdksmbxjxvbqw7hyrfnby/p/MindDrive/2021/08/Images/Augmentation%20Research%20Center%20Lab.jpg)
+
 
 
 

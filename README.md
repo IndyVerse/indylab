@@ -1,5 +1,7 @@
 # indylab
 
+Preapared for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
+
 End-to-End First Slice Technology Demonstrator of 
 
 

@@ -8,7 +8,7 @@ collaborative, mutual learning, research and building spaces for Autonomous Netw
 The goal is to 
 
 "Make it easy to emulate
-compelling to do"
+compelling to do" [Jerry Michalsky Open Global Mind](https://hyp.is/ytzAKvXGEeurRiMRiP6Hnw/docdrop.org/video/54iZWI9Does/)
 
 let 1000 ANICs bloom
 

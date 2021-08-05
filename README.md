@@ -5,10 +5,11 @@ IndieHub as TrailHub has been spun out of TrailMarks to create constellations ne
 Open, Commons based peer producuction of knowledge and the means for creatine knowledge collaboratively
 
 
-Single Player Personal Knowledge Managgement tools, Networked Tools for Thought into
-multiplayer collaborative tools
+and turning Single Player, Personal Information/Knowledge Management, 
+Personal Knowledge Graphs and ather Networked Tools for Thought into
+multiplayer collaborative co-creative tools
 
-and provide the same for TrailMarks so that it can become 
+to provide the same for TrailMarks so that it can become 
 a Symmathetic Serendipity Engine support personal first collaborative (knowledge) work and building the rools needd for it as a conversation
 
 Drawn inspiration for the Lab in the name from

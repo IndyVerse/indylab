@@ -37,8 +37,8 @@ Like the Wiki was for Web 2
 Aspiring to do likewise for Web3
 
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
-Open, Commons based peer producuction of knowledge along with the very means best suited for 
-augmenting our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.
+Open, Commons based peer producuction of knowledge along with the very means needed to curate it in ways that  
+augment our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.
 
 
 Turn Single Player, Personal Information/Knowledge Management, 

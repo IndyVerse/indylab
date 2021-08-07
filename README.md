@@ -38,20 +38,20 @@ Aspiring to do likewise for Web3
 
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
 Open, Commons based peer producuction of knowledge along with the very means best suited for 
-augmenting our ability to think previously unthinkable thoughts, organize them in waysthat were previously simply new possible to create "New Kinds of Knowledge" to support collaborative Intentions.
+augmenting our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.
 
 
 Turn Single Player, Personal Information/Knowledge Management, 
 Personal Knowledge Graphs and ather Networked Tools for Thought into
 ones that are multiplayer, born interoperable and support deep collaborations,
-that make the work continuous without being sunchronous,
-and contigupus with participants own(ed) entire ongoing knowledge work.
+that make the work continuous without being synchronous,
+and contiguous with participants own(ed) entire ongoing knowledge work.
 
 Make it easy for anyone with a good idea to create new 
 multiplayer collaborative co-creative tools and capabilities.
 
-IndyLab turns TrailMarks from a personal Inormatiomn/Knwoledge/Research Management  tool into  
-a Symmathetic Serendipity Engine support personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needd forcrating new kinds of software as a conversation
+IndyLab turns TrailMarks from a personal Informatiomn/Knwoledge/Research Management  tool into  
+a Symmathetic Serendipity Engine support personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
 
 Drawn inspiration for the word Lab in the name from
 [Collective Intelligence collaboratory](https://www.collectiveintelligencecollaboratory.com/)
@@ -64,7 +64,7 @@ Web3 Native Sidecar with zero friction onramping
 
 Build from Trust for Trust
 
-Restoring the Paradimg Lost
+Restoring the Paradigm Lost
 
 ![](https://ipfs.runfission.com/ipfs/bafybeicbh6a5bfxusqje4pdbm6xt3qjwua3aurdksmbxjxvbqw7hyrfnby/p/MindDrive/2021/08/Images/Augmentation%20Research%20Center%20Lab.jpg)
 

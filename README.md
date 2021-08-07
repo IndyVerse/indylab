@@ -3,38 +3,27 @@
 Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/587/919/datas/full_width.png)
 
-End-to-End First Slice Technology Demonstrator of a
+End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory** . . .
 
-a WebNative Collaboratory
+The stone you need to cook your own stone soups for your own communities,
 
-The stone you need to cook your own stone soups for your own communities
+powered by WebNative constellations (see [Fission](https://fission.codes)) for creating no code, no deploy,
 
+_collaborative, mutual learning, research spaces_
 
-powered by  WebNative constellations (see [Fission](https://fission.codes)) for creating no code, no deploy
+for Autonomous Networked Improvement Communities on Web3
 
-collaborative, mutual learning, research spaces 
+that are extensible and/or interoperable with other 
+Open, Commons-based Peer-produced WebNative Apps
 
-for 
-Autonomous Networked Improvement Communities on Web3.
+Powered by **IPFS, OrbitDb and Fission** to being with.
 
-that are extensible and bor interoperable with other 
-Open, Commons based Peer Produced WebNative Apps
-
-Powered buy IPFS, OrbitDb and Fission to being with.
-
-The goal is to 
-
-"Make it all easy to emulate,
+The goal is to "Make it all easy to emulate,
 compelling to do" [Jerry Michalsky Open Global Mind](https://hyp.is/ytzAKvXGEeurRiMRiP6Hnw/docdrop.org/video/54iZWI9Does/)
 
 let 1000 ANICs bloom
 
-As with protolocs like IPFS,
-the goal is not to make money with it but because it exists
-
-Like the Wiki was for Web 2
-
-Aspiring to do likewise for Web3
+As with protolocs like IPFS, the goal is not to make money with it but because it exists —like the Wiki was for Web2, aspiring to do likewise for Web3.
 
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
 Open, Commons based peer producuction of knowledge along with the very means needed to curate it in ways that  

@@ -6,11 +6,11 @@ Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_m
 End-to-End First Slice Technology Demonstrator of 
 
 
-how WebNative constellations (see [Fission](https://fission.codes)
+how WebNative constellations (see [Fission](https://fission.codes))
 can be created for
-collaborative, mutual learning, research and building spaces for 
+collaborative, mutual learning, research spaces for 
 Autonomous Networked Improvement Communities on Web3.
-Powered bu IPFS, OrbitDb and Fission to being with.
+Powered buy IPFS, OrbitDb and Fission to being with.
 
 The goal is to 
 
@@ -34,9 +34,10 @@ augmenting our ability to think previously unthinkable thoughts, organize them i
 Turn Single Player, Personal Information/Knowledge Management, 
 Personal Knowledge Graphs and ather Networked Tools for Thought into
 ones that are multiplayer, born interoperable and support deep collaborations,
-that make the work continuous without necessarily be sunchronous,
-and contigupus with participants own(ed) entire knowledge.
-Making it easy for anyone with a good idea to create new 
+that make the work continuous without being sunchronous,
+and contigupus with participants own(ed) entire ongoing knowledge work.
+
+Make it easy for anyone with a good idea to create new 
 multiplayer collaborative co-creative tools and capabilities.
 
 IndyLab turns TrailMarks from a personal Inormatiomn/Knwoledge/Research Management  tool into  

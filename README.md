@@ -3,13 +3,21 @@
 Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/587/919/datas/full_width.png)
 
-End-to-End First Slice Technology Demonstrator of 
+End-to-End First Slice Technology Demonstrator of a
+
+a WebNative Collaboratory
 
 
-how WebNative constellations (see [Fission](https://fission.codes))
-can be created for
-collaborative, mutual learning, research spaces for 
+powered by  WebNative constellations (see [Fission](https://fission.codes)) for creating no code, no deploy
+
+collaborative, mutual learning, research spaces 
+
+for 
 Autonomous Networked Improvement Communities on Web3.
+
+that are extensible and bor interoperable with other 
+Open, Commons based Peer Produced WebNative Apps
+
 Powered buy IPFS, OrbitDb and Fission to being with.
 
 The goal is to 

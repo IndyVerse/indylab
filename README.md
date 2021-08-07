@@ -7,6 +7,8 @@ End-to-End First Slice Technology Demonstrator of a
 
 a WebNative Collaboratory
 
+A stone for stone soups for your own communities
+
 
 powered by  WebNative constellations (see [Fission](https://fission.codes)) for creating no code, no deploy
 

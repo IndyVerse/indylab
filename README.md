@@ -3,7 +3,11 @@
 Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/587/919/datas/full_width.png)
 
-End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory** . . .
+End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory Farm** . . .
+Inspired by FedWiki [Wiki Farm](http://fedwiki.org/view/welcome-visitors/view/wiki-farm)
+
+
+
 
 The stone you need to cook your own stone soups for your own communities,
 

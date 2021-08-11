@@ -32,6 +32,11 @@ let 1000 ANICs bloom
 
 As with protolocs like IPFS, the goal is not to make money with it but because it exists —like the Wiki was for Web2, aspiring to do likewise for Web3.
 
+Like the Wiki we want to invent a new ways of writing, InterPersonal communication that is continuous, permanent, with immutable provenance that includes discovering people who read what you write, commenting, suggesting,, learning together in ways that are continuous without being synchronous. With ability to resume knwork and dialogue within a live context where it was last left off. Sharing ideas not as immitation of paper, but in a form that supports faster, better comprehension and the ability to
+autment our ability to articulate.
+This new way of writing involve the introduction of a new notation that allow us to capture the semanticsm intent, and our mutual learning (symmathesy) as we write.
+
+
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
 Open, Commons based peer producuction of knowledge along with the very means needed to curate it in ways that  
 augment our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.

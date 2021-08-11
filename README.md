@@ -1,7 +1,7 @@
 # indylab
 
 Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/587/919/datas/full_width.png)
+![](https://ipfs.runfission.com/ipfs/bafybeihxfd4vtmv57mi3627anihceyyvi4zbyy7hrbwf5gwtvmrz7yldwq/p/MindDrive/2021/08/Icons/browser300x120.png)
 
 End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory Farm** . . .
 Inspired by FedWiki [Wiki Farm](http://fedwiki.org/view/welcome-visitors/view/wiki-farm)
@@ -12,6 +12,9 @@ Inspired by FedWiki [Wiki Farm](http://fedwiki.org/view/welcome-visitors/view/wi
 The stone you need to cook your own stone soups for your own communities,
 
 powered by WebNative constellations (see [Fission](https://fission.codes)) for creating no code, no deploy,
+
+[Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup)
+![](https://ipfs.runfission.com/ipfs/bafybeig7aucbolmaqc6ouxuwcptvztvdwkja6ypbn6ykvjqvmdicpb6ds4/p/MindDrive/2021/08/Icons/stone%20soup%20240.png)
 
 _collaborative, mutual learning, research spaces_
 

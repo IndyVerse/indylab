@@ -1,6 +1,7 @@
-# indylab
+## IndyLab
 
-Preaparing for the https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open
+Preaparing for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)!
+
 ![](https://ipfs.runfission.com/ipfs/bafybeihxfd4vtmv57mi3627anihceyyvi4zbyy7hrbwf5gwtvmrz7yldwq/p/MindDrive/2021/08/Icons/browser300x120.png)
 
 End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory Farm** . . .
@@ -30,7 +31,7 @@ compelling to do" [Jerry Michalsky Open Global Mind](https://hyp.is/ytzAKvXGEeur
 
 let 1000 ANICs bloom
 
-As with protolocs like IPFS, the goal is not to make money with it but because it exists —like the Wiki was for Web2, aspiring to do likewise for Web3.
+As with protocols like IPFS, the goal is not to make money with it but because it exists —like the Wiki was for Web2, aspiring to do likewise for Web3.
 
 Like the Wiki we want to invent a new ways of writing, InterPersonal communication that is continuous, permanent, with immutable provenance that includes discovering people who read what you write, commenting, suggesting,, learning together in ways that are continuous without being synchronous. With ability to resume knwork and dialogue within a live context where it was last left off. Sharing ideas not as immitation of paper, but in a form that supports faster, better comprehension and the ability to
 autment our ability to articulate.

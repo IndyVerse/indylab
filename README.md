@@ -4,6 +4,10 @@ Preaparing for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?r
 
 ![](https://ipfs.runfission.com/ipfs/bafybeihxfd4vtmv57mi3627anihceyyvi4zbyy7hrbwf5gwtvmrz7yldwq/p/MindDrive/2021/08/Icons/browser300x120.png)
 
+Proved to be too ambitious and nebulous. Talked to People and they Want IndyWiki (wiky) yesterday!
+[IndyWiki: Web3Native, Personal First, Tinkerable wiki](https://github.com/IndyVerse/indywiki#readme)
+
+
 End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory Farm** . . .
 Inspired by FedWiki [Wiki Farm](http://fedwiki.org/view/welcome-visitors/view/wiki-farm)
 

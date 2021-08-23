@@ -1,5 +1,5 @@
 ## IndyLab
-![](https://ipfs.io/ipfs/bafkreib2nihvngycxu2eduus2onsiwefv7xugcdauyyo4gzjuq6kpko3na)
+
 Preaparing for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)!
 
 ![](https://ipfs.runfission.com/ipfs/bafybeihxfd4vtmv57mi3627anihceyyvi4zbyy7hrbwf5gwtvmrz7yldwq/p/MindDrive/2021/08/Icons/browser300x120.png)
@@ -7,6 +7,10 @@ Preaparing for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?r
 Proved to be too ambitious and nebulous. Talked to People and they Want IndyWiki (wiky) yesterday!
 [IndyWiki: Web3Native, Personal First, Tinkerable wiki](https://github.com/IndyVerse/indywiki#readme)
 
+Submitted on [IndyWiki on DevPost](https://devpost.com/software/indywiki)
+![](https://ipfs.io/ipfs/bafkreib2nihvngycxu2eduus2onsiwefv7xugcdauyyo4gzjuq6kpko3na)
+
+In fact [Indywiki](https://github.com/IndyVerse/indywiki#readme) is at the center of  the first flower on this infinite Penrose Tiles of capabilites for Structure and Collaboration
 
 End-to-End First Slice Technology Demonstrator of a **WebNative Collaboratory Farm** . . .
 Inspired by FedWiki [Wiki Farm](http://fedwiki.org/view/welcome-visitors/view/wiki-farm)

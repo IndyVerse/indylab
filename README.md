@@ -41,18 +41,18 @@ let 1000 ANICs bloom
 
 As with protocols like IPFS, the goal is not to make money with it but because it exists —like the Wiki was for Web2, aspiring to do likewise for Web3.
 
-Like the Wiki we want to invent a new ways of writing, InterPersonal communication that is continuous, permanent, with immutable provenance that includes discovering people who read what you write, commenting, suggesting,, learning together in ways that are continuous without being synchronous. With ability to resume knwork and dialogue within a live context where it was last left off. Sharing ideas not as immitation of paper, but in a form that supports faster, better comprehension and the ability to
-autment our ability to articulate.
-This new way of writing involve the introduction of a new notation that allow us to capture the semanticsm intent, and our mutual learning (symmathesy) as we write.
+Like the Wiki we want to invent a new ways of writing, InterPersonal communication that is continuous, permanent, with immutable provenance that includes discovering people who read what you write, commenting, suggesting, and learning together in ways that are continuous without being synchronous. With ability to resume knwork and dialogue within a live context where it was last left off. Sharing ideas not as immitation of paper, but in a form that supports faster, better comprehension and the ability to
+augment our ability to articulate.
+This new way of writing involves the introduction of a new notation that allow us to capture the semantic intent, and our mutual learning (symmathesy) as we write.
 
 
 IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
-Open, Commons based peer producuction of knowledge along with the very means needed to curate it in ways that  
+Open, Commons based peer produuction of knowledge along with the very means needed to curate it in ways that  
 augment our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.
 
 
 Turn Single Player, Personal Information/Knowledge Management, 
-Personal Knowledge Graphs and ather Networked Tools for Thought into
+Personal Knowledge Graphs and other Networked Tools for Thought into
 ones that are multiplayer, born interoperable and support deep collaborations,
 that make the work continuous without being synchronous,
 and contiguous with participants own(ed) entire ongoing knowledge work.
@@ -61,7 +61,7 @@ Make it easy for anyone with a good idea to create new
 multiplayer collaborative co-creative tools and capabilities.
 
 IndyLab turns TrailMarks from a personal Informatiomn/Knwoledge/Research Management  tool into  
-a Symmathetic Serendipity Engine support personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
+a Symmathetic Serendipity Engine supporting personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
 
 Drawn inspiration for the word Lab in the name from
 [Collective Intelligence collaboratory](https://www.collectiveintelligencecollaboratory.com/)

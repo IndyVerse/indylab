@@ -1,12 +1,12 @@
 ## IndyLab
 
-IndyLab turns TrailMarks from a personal Informatiomn/Knwoledge/Research Management  tool into a Symmathetic Serendipity Engine supporting personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
+IndyLab turns TrailMarks from a personal Information/Knowledge/Research Management  tool into a Symmathetic Serendipity Engine supporting personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
 
 This draft document was written for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)!
 
 ![](https://ipfs.runfission.com/ipfs/bafybeihxfd4vtmv57mi3627anihceyyvi4zbyy7hrbwf5gwtvmrz7yldwq/p/MindDrive/2021/08/Icons/browser300x120.png)
 
-Proved to be too ambitious and nebulous. Talked to People and they Want IndyWiki (wiky) yesterday!
+Proved to be too ambitious and nebulous. Talked to People and they Want IndyWiki (wiky) instead of Indylab.
 [IndyWiki: Web3Native, Personal First, Tinkerable wiki](https://github.com/IndyVerse/indywiki#readme)
 
 Submitted on [IndyWiki on DevPost](https://devpost.com/software/indywiki)

@@ -46,9 +46,7 @@ augment our ability to articulate.
 This new way of writing involves the introduction of a new notation that allow us to capture the semantic intent, and our mutual learning (symmathesy) as we write.
 
 
-IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for
-Open, Commons based peer produuction of knowledge along with the very means needed to curate it in ways that  
-augment our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.
+IndieHub as TrailHub has been spun out of TrailMarks to create constellations needed for Open, Commons based peer produuction of knowledge along with the very means needed to curate it in ways that augment our ability to think previously unthinkable thoughts, organize them in ways that were previously simply impossible to create "New Kinds of Knowledge" to support collaborative Intentions.
 
 
 Turn Single Player, Personal Information/Knowledge Management, 
@@ -57,11 +55,9 @@ ones that are multiplayer, born interoperable and support deep collaborations,
 that make the work continuous without being synchronous,
 and contiguous with participants own(ed) entire ongoing knowledge work.
 
-Make it easy for anyone with a good idea to create new 
-multiplayer collaborative co-creative tools and capabilities.
+Make it easy for anyone with a good idea to create new multiplayer collaborative co-creative tools and capabilities.
 
-IndyLab turns TrailMarks from a personal Informatiomn/Knwoledge/Research Management  tool into  
-a Symmathetic Serendipity Engine supporting personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
+IndyLab turns TrailMarks from a personal Informatiomn/Knwoledge/Research Management  tool into a Symmathetic Serendipity Engine supporting personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
 
 Drawn inspiration for the word Lab in the name from
 [Collective Intelligence collaboratory](https://www.collectiveintelligencecollaboratory.com/)
@@ -69,8 +65,7 @@ and
 
 [Introducing RoamLab: A Framework for Building Community Labs])https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs_
 
-as an Open Framework of building online community laboratories that can be run alongside existing web presence as a
-Web3 Native Sidecar with zero friction onramping
+as an Open Framework of building online community laboratories that can be run alongside existing web presence as a Web3 Native Sidecar with zero friction onramping
 
 Build from Trust for Trust
 

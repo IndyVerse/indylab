@@ -2,7 +2,7 @@
 
 IndyLab turns TrailMarks from a personal Informatiomn/Knwoledge/Research Management  tool into a Symmathetic Serendipity Engine supporting personal first collaborative (knowledge) work and bootstrapping, co-metadesigning, tinkerable homebrew tools needed for creating new kinds of software as a conversation
 
-Preaparing for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)!
+This draft document was written for the [Browsers 3000 Hackathon](https://browsers3000.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)!
 
 ![](https://ipfs.runfission.com/ipfs/bafybeihxfd4vtmv57mi3627anihceyyvi4zbyy7hrbwf5gwtvmrz7yldwq/p/MindDrive/2021/08/Icons/browser300x120.png)
 
